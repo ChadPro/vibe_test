@@ -1,0 +1,56 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Go
+vendor/
+
+# Rust
+target/
+
+# Java
+*.class
+*.jar
+.gradle/
+build/
+
+# Logs
+*.log
+logs/
+
+# Temp
+*.tmp
+*.bak
+*.cache
